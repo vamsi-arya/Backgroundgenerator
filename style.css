@@ -1,0 +1,37 @@
+body {
+    font: 'raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5cm;
+    top:15%;
+    background: linear-gradient(to right,red,yellow);
+
+}
+
+button{
+    color: chartreuse;
+    font-size: large;
+    width: 100;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1cm;
+
+}
+h1{
+    font:500 3.5cm 'railway',sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5cm;
+    width: 100%;
+
+}
+h2{
+    font:900 1cm 'railway',sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform:none;
+    letter-spacing: 0.1cm;
+    
+}
